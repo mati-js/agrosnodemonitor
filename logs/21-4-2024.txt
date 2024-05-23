@@ -9,3 +9,7 @@
 21-4-2024 at 11 pasados de las 10 - Error in fetch to remote: fetch failed
 21-4-2024 a los 13 pasados de las 10 - Fetching local node URL. (http://172.15.0.150:8989)
 21-4-2024 a los 13 pasados de las 10 - Fetching remote node URL. (http://186.182.10.177:8989)
+21-4-2024 a los 7 pasados de las 11 - Fetching local node URL. (http://undefined:undefined)
+21-4-2024 a los 7 pasados de las 11 - Fetching remote node URL. (http://undefined:undefined)
+21-4-2024 a los 7 pasados de las 11 - Error in fetch to local: Failed to parse URL from http://undefined:undefined
+21-4-2024 a los 7 pasados de las 11 - Error in fetch to remote: Failed to parse URL from http://undefined:undefined
